@@ -1,0 +1,1 @@
+nvcc -o cuda_hash cuda_hash.cu
